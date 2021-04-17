@@ -1,2 +1,2 @@
 # opsmap-icons
-Set of OCHA icons for Opsmap applications
+Set of OCHA and custom icons for Opsmap applications
